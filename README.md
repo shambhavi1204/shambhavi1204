@@ -11,8 +11,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/shambhavi-sinha-a7502a20a/">LinkedIn</a> ·
   <a href="https://scholar.google.com/citations?user=b6Bm1oQAAAAJ&hl=en">Google Scholar</a> ·
-  <a href="https://medium.com/@shambhavisinha_12370">Medium</a> ·
-  <a href="mailto:sinha242@purdue.edu">Email</a>
 </p>
 
 ## About me
@@ -47,5 +45,5 @@
 - **GitHub:** [@shambhavi1204](https://github.com/shambhavi1204)
 - **Google Scholar:** [Research profile](https://scholar.google.com/citations?user=b6Bm1oQAAAAJ&hl=en)
 - **LinkedIn:** [Shambhavi Sinha](https://www.linkedin.com/in/shambhavi-sinha-a7502a20a/)
-- **Medium:** [@shambhavisinha_12370](https://medium.com/@shambhavisinha_12370)
-- **Email:** [sinha242@purdue.edu](mailto:sinha242@purdue.edu)
+
+
