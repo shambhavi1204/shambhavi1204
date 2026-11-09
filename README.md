@@ -1,31 +1,51 @@
-<h1 align="center">Hi 👋, I'm Shambhavi Sinha</h1>
-<h3 align="center">passionate about research in Computer Vision , Deep learning, Generative Modelling and Data Science.</h3>
+<h1 align="center">Hi, I'm Shambhavi Sinha 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shambhavi1204&label=Profile%20views&color=0e75b6&style=flat" alt="shambhavi1204" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shambhavi1204" alt="shambhavi1204" /></a> </p>
-
-- 🔭 I’m currently working on **Deep Learning Techniques for Early Diagnosis and Image Analysis in Radiology.**
-
-- 🌱 I’m currently learning **Reinforcement Learning, Graph Neural Networks, and Comprehensive Courses in Time Series Analysis, Probability, and Statistics.n**
-
-- 👯 I’m looking to collaborate on **Ethical AI, Unsupervised Learning, Contrastive Learning.**
-
-- 💬 Ask me about **Python,Tensorflow and neural networks and machine learning algorithms.**
-
-- 📫 How to reach me **sinhashambhavi1204@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shambhavi-sinha-a7502a20a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shambhavi-sinha-a7502a20a/" height="30" width="40" /></a>
-<a href="https://medium.com/@shambhavisinha_12370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shambhavisinha_12370" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/sinhashambhavi11?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sinhashambhavi11?hr_r=1" height="30" width="40" /></a>
+<p align="center">
+  <strong>Graduate Student at Purdue University | AI Systems & Machine Learning Research</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  I work at the intersection of machine learning, computer vision, and scalable AI systems, with interests in reliable AI, scientific machine learning, and biomedical imaging.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shambhavi1204&show_icons=true&locale=en&layout=compact" alt="shambhavi1204" /></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shambhavi-sinha-a7502a20a/">LinkedIn</a> ·
+  <a href="https://scholar.google.com/citations?user=b6Bm1oQAAAAJ&hl=en">Google Scholar</a> ·
+  <a href="https://medium.com/@shambhavisinha_12370">Medium</a> ·
+  <a href="mailto:sinha242@purdue.edu">Email</a>
+</p>
 
+## About me
 
+- 🎓 Pursuing a **Joint M.S. in Statistics and Computer Science at Purdue University**; previously earned a B.Tech. in Electronics and Communication Engineering with a minor in Computational Mathematics from Manipal Institute of Technology.
+- 💻 Former **Software Engineer, AI Systems at Oracle**, developing real-time, multi-agent video analytics infrastructure and exploring root-cause diagnosis for Kubernetes-based AI agents.
+- 🔬 Former **AI Architecture Research Intern at Intel Labs**, working on AI–hardware co-optimization for compute-in-memory architectures and memory-efficient LLM attention.
+- 🌱 Currently exploring **root-cause analysis for complex AI systems**, **physics-informed models for turbulence mitigation**, and **machine learning for biomedical imaging**.
+- 🤝 Interested in collaborations spanning trustworthy AI systems, computer vision, scientific ML, and applied statistical learning.
+
+## Research and selected work
+
+- **Root-cause analysis for AI infrastructure:** Prototyped a system that ranks parallel diagnostic hypotheses from sanitized Kubernetes logs, events, and metrics; improved the diagnostic pass rate by **22%** over sequential diagnosis in internal evaluation.
+- **Real-time multi-agent AI:** Co-developed a live video analytics platform coordinating vision and speech inference across Kubernetes services, using NATS and Valkey for messaging and shared state.
+- **AI–hardware co-design:** Developed predictors of model accuracy and latency to efficiently evaluate compute-in-memory designs at Intel Labs.
+- **Efficient LLM inference:** Co-authored **QCQA (Quality and Capacity-Aware Grouped Query Attention)**, a memory-efficient attention method associated with a filed U.S. patent.
+- **Biomedical computer vision:** Published work on **ischemic stroke lesion segmentation in brain MRI (EnigmaNet)** and **skin cancer detection in dermoscopic images (Multiscale-FocusNet)**.
+
+## Current research interests
+
+`Root-Cause Analysis` · `Reliable AI Systems` · `Physics-Informed Machine Learning` · `Turbulence Mitigation` · `Biomedical Image Analysis` · `Computer Vision` · `Statistical Machine Learning`
+
+## Technical toolkit
+
+**Languages:** Python, C++, Go, SQL  
+**Machine learning:** PyTorch, TensorFlow, scikit-learn, Hugging Face, NumPy  
+**Systems and infrastructure:** Docker, Kubernetes, Linux, Git, NATS, Valkey, WebRTC  
+**Additional tools:** LangChain, OpenAI API
+
+## Connect
+
+- **GitHub:** [@shambhavi1204](https://github.com/shambhavi1204)
+- **Google Scholar:** [Research profile](https://scholar.google.com/citations?user=b6Bm1oQAAAAJ&hl=en)
+- **LinkedIn:** [Shambhavi Sinha](https://www.linkedin.com/in/shambhavi-sinha-a7502a20a/)
+- **Medium:** [@shambhavisinha_12370](https://medium.com/@shambhavisinha_12370)
+- **Email:** [sinha242@purdue.edu](mailto:sinha242@purdue.edu)
