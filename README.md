@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I work at the intersection of machine learning, computer vision, and scalable AI systems, with interests in reliable AI, scientific machine learning, and biomedical imaging.
+ I focus on building reliable AI systems and applying machine learning to complex real-world problems.
 </p>
 
 <p align="center">
